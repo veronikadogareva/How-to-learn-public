@@ -7,4 +7,6 @@ The project is an html page with information about various teaching methods.
 *HTML5
 ## In the plans
 *Give links specific paths;
+## GitHub Pages
+https://veronikadogareva.github.io/How-to-learn-public
 
